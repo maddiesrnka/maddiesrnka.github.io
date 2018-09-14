@@ -1,0 +1,34 @@
+{
+    "title": "MaddieSrnka.com",
+    "name": "MaddieSrnka.com",
+    "version": "0.0.1",
+    "description": "The official a website of Maddie Srnka",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "www.maddiesrnka.github.io",
+    "license": "MIT",
+    "author": "M. O. Srnka",
+    "contributors": [
+        "D. Pasionek"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "bootstrap": "^4.0.0-alpha.6",
+        "font-awesome": "^4.6.3",
+        "jquery": "^3.2.1",
+        "tether": "^1.4.0"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.8",
+        "gulp": "^3.9.1"
+    }
+}
